@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Plop XML Sitemap Generator - BASH Script 1.0 2020/01/16 https://www.plop.at -->
+<!-- Date: 2021/10/04 23:48:30 -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
@@ -9,7 +11,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/robots.txt</loc>
+    <loc>https://www.mapcine.com/robots.txt/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/contact/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -19,47 +26,47 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/81b455be68ff88211eed79cf778d0e79/</loc>
+    <loc>https://www.mapcine.com/search/8a7352ff8f6eada1607858594f31bb56/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/edbd71b885781a917083192993f0e30e/</loc>
+    <loc>https://www.mapcine.com/search/34d9a2dfa60d9590b16dfeb4ff8cad5a/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/259b6e0848b4e5a5d452fca85e6ad1b6/</loc>
+    <loc>https://www.mapcine.com/search/7aa4330ff7a96ba50ad9bb2b8a7998e9/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/eaa24b6d82b52c0d5a91e2664c5a1a1f/</loc>
+    <loc>https://www.mapcine.com/search/3814c5dfe22b5e31118641aa272788ba/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/64023549b00dc32ccb5e45fced0fb84d/</loc>
+    <loc>https://www.mapcine.com/search/6eee1dd8ab0f3cbd4c2c486323def047/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/e6bceb05c0bcd360506cc4f0fdb6ccb6/</loc>
+    <loc>https://www.mapcine.com/search/c24820c970be53757118eacaafec030f/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/ea90b9704186c3833de2d06f0b43f78f/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.mapcine.com/search/9d7efca0de2375ec55dd8ad856f8b8be/</loc>
+    <loc>https://www.mapcine.com/search/cb8226af7bac39ab7e448a9d2caeb80e/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://www.mapcine.com/search/49c726f4f592d9bc69ae4c605d773b85/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/831679c2c4be011b952e55a037504b85/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -74,22 +81,122 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://www.mapcine.com/search/7aacfa2687de95ca7e6553ead1d994de/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://www.mapcine.com/search/91a86b7c1c14544305eacc17721e2851/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/34d9a2dfa60d9590b16dfeb4ff8cad5a/</loc>
+    <loc>https://www.mapcine.com/search/d3d0c9c32108e24cb66d6693ce9c71ec/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/7b7d4bc29ddc5cb6625efb256d37fc26/</loc>
+    <loc>https://www.mapcine.com/search/7c3b4a012ec0c6257f35faa541fa8fd4/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/search/7f7b797406fcc17e15e1a583f17c0d37/</loc>
+    <loc>https://www.mapcine.com/search/59f10e26fa9a19aa48f092dadd20703b/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/895abc0ed7d6a06553a811cdb4124990/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/edbd71b885781a917083192993f0e30e/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/81f9a3904717d719d3c0b7a8b3041c21/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/3ddc530b05d87b06707875c3d54f2ca8/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/ad27a9be5691579a005f5a8409c8f438/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/f30c5feee98344c12b7c397546630fe6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/64023549b00dc32ccb5e45fced0fb84d/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/5cc64fde9dac458c5931efa26925e7b6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/037cddd60c9d24624fc2a2f8e0ceefce/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/28d188f2074a526d2136d81fe214858b/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/ea90b9704186c3833de2d06f0b43f78f/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/e6bceb05c0bcd360506cc4f0fdb6ccb6/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/cd79bcbd10613837fc5f08f447a9a37f/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/7e36c445fb4f6a40fae75ebe390e189f/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/625dc3de58e4195c43cc60829b603423/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/81b455be68ff88211eed79cf778d0e79/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/b3a93501186cbf965c132e4542988556/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/2bc4c420730503e4738735dd588b91d3/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.mapcine.com/search/5db7b47649bdc35331001dbcb3045885/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -104,12 +211,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/tags/anti-covax/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://www.mapcine.com/tags/anti-mask/</loc>
+    <loc>https://www.mapcine.com/tags/neutral/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -119,12 +221,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/tags/neutral/</loc>
+    <loc>https://www.mapcine.com/tags/anti-mask/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://www.mapcine.com/contact/</loc>
+    <loc>https://www.mapcine.com/tags/anti-covax/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
